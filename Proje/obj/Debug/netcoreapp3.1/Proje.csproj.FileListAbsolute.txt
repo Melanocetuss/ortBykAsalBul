@@ -1,0 +1,84 @@
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.exe
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.deps.json
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.json
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.dev.json
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.AssemblyReference.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfoInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfo.cs
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.CoreCompileInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.genruntimeconfig.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\a C# HomeWork\Proje\bin\Debug\netcoreapp3.1\Proje.exe
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\a C# HomeWork\Proje\bin\Debug\netcoreapp3.1\Proje.deps.json
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\a C# HomeWork\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.json
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\a C# HomeWork\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.dev.json
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\a C# HomeWork\Proje\bin\Debug\netcoreapp3.1\Proje.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\a C# HomeWork\Proje\bin\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.AssemblyReference.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfoInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfo.cs
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.CoreCompileInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\alpha\OneDrive\Masaüstü\Project\MBP105(C#)\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.genruntimeconfig.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\a C# HomeWork\Proje\bin\Debug\netcoreapp3.1\Proje.exe
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\a C# HomeWork\Proje\bin\Debug\netcoreapp3.1\Proje.deps.json
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\a C# HomeWork\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.json
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\a C# HomeWork\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.dev.json
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\a C# HomeWork\Proje\bin\Debug\netcoreapp3.1\Proje.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\a C# HomeWork\Proje\bin\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.AssemblyReference.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfoInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfo.cs
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.CoreCompileInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.genruntimeconfig.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\a C# HomeWork\Proje\bin\Debug\netcoreapp3.1\Proje.exe
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\a C# HomeWork\Proje\bin\Debug\netcoreapp3.1\Proje.deps.json
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\a C# HomeWork\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.json
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\a C# HomeWork\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.dev.json
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\a C# HomeWork\Proje\bin\Debug\netcoreapp3.1\Proje.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\a C# HomeWork\Proje\bin\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.AssemblyReference.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfoInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfo.cs
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.CoreCompileInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.dll
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\a C# HomeWork\Proje\obj\Debug\netcoreapp3.1\Proje.genruntimeconfig.cache
+C:\Users\alpha\OneDrive\Masaüstü\C# ortBykAsalBul\Proje\bin\Debug\netcoreapp3.1\Proje.exe
+C:\Users\alpha\OneDrive\Masaüstü\C# ortBykAsalBul\Proje\bin\Debug\netcoreapp3.1\Proje.deps.json
+C:\Users\alpha\OneDrive\Masaüstü\C# ortBykAsalBul\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.json
+C:\Users\alpha\OneDrive\Masaüstü\C# ortBykAsalBul\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.dev.json
+C:\Users\alpha\OneDrive\Masaüstü\C# ortBykAsalBul\Proje\bin\Debug\netcoreapp3.1\Proje.dll
+C:\Users\alpha\OneDrive\Masaüstü\C# ortBykAsalBul\Proje\bin\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\alpha\OneDrive\Masaüstü\C# ortBykAsalBul\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.AssemblyReference.cache
+C:\Users\alpha\OneDrive\Masaüstü\C# ortBykAsalBul\Proje\obj\Debug\netcoreapp3.1\Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpha\OneDrive\Masaüstü\C# ortBykAsalBul\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfoInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\C# ortBykAsalBul\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfo.cs
+C:\Users\alpha\OneDrive\Masaüstü\C# ortBykAsalBul\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.CoreCompileInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\C# ortBykAsalBul\Proje\obj\Debug\netcoreapp3.1\Proje.dll
+C:\Users\alpha\OneDrive\Masaüstü\C# ortBykAsalBul\Proje\obj\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\alpha\OneDrive\Masaüstü\C# ortBykAsalBul\Proje\obj\Debug\netcoreapp3.1\Proje.genruntimeconfig.cache
+C:\Users\alpha\OneDrive\Masaüstü\ortBykAsalBul\Proje\bin\Debug\netcoreapp3.1\Proje.exe
+C:\Users\alpha\OneDrive\Masaüstü\ortBykAsalBul\Proje\bin\Debug\netcoreapp3.1\Proje.deps.json
+C:\Users\alpha\OneDrive\Masaüstü\ortBykAsalBul\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.json
+C:\Users\alpha\OneDrive\Masaüstü\ortBykAsalBul\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.dev.json
+C:\Users\alpha\OneDrive\Masaüstü\ortBykAsalBul\Proje\bin\Debug\netcoreapp3.1\Proje.dll
+C:\Users\alpha\OneDrive\Masaüstü\ortBykAsalBul\Proje\bin\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\alpha\OneDrive\Masaüstü\ortBykAsalBul\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.AssemblyReference.cache
+C:\Users\alpha\OneDrive\Masaüstü\ortBykAsalBul\Proje\obj\Debug\netcoreapp3.1\Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpha\OneDrive\Masaüstü\ortBykAsalBul\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfoInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\ortBykAsalBul\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfo.cs
+C:\Users\alpha\OneDrive\Masaüstü\ortBykAsalBul\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.CoreCompileInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\ortBykAsalBul\Proje\obj\Debug\netcoreapp3.1\Proje.dll
+C:\Users\alpha\OneDrive\Masaüstü\ortBykAsalBul\Proje\obj\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\alpha\OneDrive\Masaüstü\ortBykAsalBul\Proje\obj\Debug\netcoreapp3.1\Proje.genruntimeconfig.cache
